@@ -63,8 +63,10 @@ pip install numpy torch whisper soundcard transformers openai
 
 ## 输出示例
 #==================================================
+
 English: This is a test message.
 Chinese: 这是一条测试消息。
+
 #==================================================
 
 ## 高级功能
